@@ -7,7 +7,6 @@ A Python-based DNS-level network monitor that intercepts DNS queries from every 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-3.0+-black?logo=flask)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-lightblue?logo=sqlite)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
